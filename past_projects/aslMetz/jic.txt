@@ -1,0 +1,123 @@
+<center>
+<table style="center">
+<tr>
+<th colspan="3">ABC's:</th>
+</tr>
+<tr>
+<td class="padding""gallery"><img src="Images/Sign%20gifs/ABCs/a.gif" width="200" height="200" alt="A" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/b.gif" width="200" height="200" alt="B" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/c.gif" width="200" height="200" alt="C" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/d.gif" width="200" height="200" alt="D" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/e.gif" width="200" height="200" alt="E" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/f.gif" width="200" height="200" alt="F" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/g.gif" width="200" height="200" alt="G" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/h.gif" width="200" height="200" alt="H" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/i.gif" width="200" height="200" alt="I" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/j.gif" width="200" height="200" alt="J" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/k.gif" width="200" height="200" alt="K" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/l.gif" width="200" height="200" alt="L" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/m.gif" width="200" height="200" alt="M" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/n.gif" width="200" height="200" alt="N" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/o.gif" width="200" height="200" alt="O" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/p.gif" width="200" height="200" alt="P" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/q.gif" width="200" height="200" alt="Q" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/r.gif" width="200" height="200" alt="R" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/s.gif" width="200" height="200" alt="S" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/t.gif" width="200" height="200" alt="T" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/u.gif" width="200" height="200" alt="U" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/v.gif" width="200" height="200" alt="V" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/w.gif" width="200" height="200" alt="W" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/x.gif" width="200" height="200" alt="X" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/y.gif" width="200" height="200" alt="Y" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/ABCs/z.gif" width="200" height="200" alt="Z" /></td>
+</tr>
+<tr>
+<tr>
+<th colspan="3">Numbers:</th>
+</tr>
+<tr>
+<td class="padding" colspan="3"><iframe width="670" height="200" src="https://www.youtube.com/embed/6r8HDsBMk1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+<th colspan="3">SURVIVAL VOCAB:</th>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/again.gif" width="200" height="200" alt="AGAIN" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/bathroom.gif" width="200" height="200" alt="BATHROOM" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/book.gif" width="200" height="200" alt="BOOK" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/bye.gif" width="200" height="200" alt="BYE" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/dontunderstand.gif" width="200" height="200" alt="I DONT UNDERSTAND" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/fingerspell.gif" width="200" height="200" alt="FINGERSPELL" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/finish.gif" width="200" height="200" alt="FINISH" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/fun.gif" width="200" height="200" alt="FUN" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/game.gif" width="200" height="200" alt="GAME" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/homework.gif" width="200" height="200" alt="HOMEWORK" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/mean.gif" width="200" height="200" alt="MEAN" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/play.gif" width="200" height="200" alt="PLAY" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/please.gif" width="200" height="200" alt="PLEASE" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/practice.gif" width="200" height="200" alt="PRACTICE" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/school.gif" width="200" height="200" alt="SCHOOL" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/seeyoulater.gif" width="200" height="200" alt="SEE-LATER" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/sign.gif" width="200" height="200" alt="SIGN" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/sit.gif" width="200" height="200" alt="SIT" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/slow.gif" width="200" height="200" alt="SLOW" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/sorry-A.gif" width="200" height="200" alt="SORRY" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/study.gif" width="200" height="200" alt="STUDY" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/thank-you.gif" width="200" height="200" alt="THANK-you" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/turn-take-turns.gif" width="200" height="200" alt="TAKE-TURNS" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/SurvivalVocab/understand.gif" width="200" height="200" alt="UNDERSTAND" /></td>
+</tr>
+<tr>
+<th colspan="3">COLORS:</th>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/Colors/black.gif" width="200" height="200" alt="BLACK" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/Colors/blue.gif" width="200" height="200" alt="BLUE" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/Colors/brown.gif" width="200" height="200" alt="BROWN" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/Colors/color.gif" width="200" height="200" alt="COLOR" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/Colors/gold.gif" width="200" height="200" alt="GOLD" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/Colors/green.gif" width="200" height="200" alt="GREEN" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/Colors/like.gif" width="200" height="200" alt="LIKE" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/Colors/orange.gif" width="200" height="200" alt="ORANGE" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/Colors/purple.gif" width="200" height="200" alt="PURPLE" /></td>
+</tr>
+<tr>
+<td class="padding"><img src="Images/Sign%20gifs/Colors/red.gif" width="200" height="200" alt="RED" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/Colors/remember.gif" width="200" height="200" alt="REMEMBER" /></td>
+<td class="padding"><img src="Images/Sign%20gifs/Colors/white.gif" width="200" height="200" alt="WHITE" /></td>
+</tr>
+</table>
+</center>

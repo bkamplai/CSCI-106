@@ -1,0 +1,12 @@
+<img src="[ImageMap] (imported)" width="200" height="200" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:bkamplai -->
+<area shape="rect" coords="0,0,200,59" alt="Texas School for the Deaf" href="http://www.tsd.state.tx.us/" />
+<area shape="rect" coords="0,60,200,131" alt="Arizona School for the Deaf and Blind" href="http://asdb.az.gov/" />
+<area shape="rect" coords="0,132,200,200" alt="Gallaudet University" href="http://www.gallaudet.edu/" />
+</map>
