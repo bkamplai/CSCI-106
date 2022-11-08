@@ -16,6 +16,9 @@
   </ul>
 
   <h1>Brandon's Personal Homepage</h1>
+
+  <label id="Greetings"></label>
+
   <p>Hello there! Welcome to my personal website! At the moment there isn't going to be much to view on this page, but as time goes on, I'll try to think of something to add to it! For the time being, click on <b>Past Projects</b> to view previous pages that I have made, and click on <b>About Me</b> to learn more about me! While you're waiting for me to update this page, why don't you spend some of your time learning some <mark><a href="./gallery.html" targert="_blank">ASL (American Sign Language) signs</a></mark>! <i>You never know when you'll stumble upon a Deaf person &#x1f609</i>.</p>
 
   <h2>Useful links:</h2>
@@ -30,4 +33,18 @@
   </mark>
 
 </body>
+<script>
+  var myDate = new Date();
+  var hrs = myDate.getHours();
+  var greet;
+
+  if(hrs < 12)
+    greet = "Good Morning";
+  else if (hrs >= 12 && hrs <= 17)
+    greet = "Good Afternoon";
+  else
+    greet = "Good Evening";
+  
+  document.getElementById("Greetings").innerHTML = '<b>' + greet + '</b> and welcome to my website!';
+</script>
 </html>
